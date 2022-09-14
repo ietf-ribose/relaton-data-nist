@@ -14,3 +14,5 @@ jobs:
     steps:
       - name: Rebuild source
         uses: ietf-ribose/github-action-build-relaton-yaml-source@60cf84ca0b43bef10cd9629b8a52853fedb0b3b8
+        with:
+          relaton-adapter: "nist-tech-pubs"
