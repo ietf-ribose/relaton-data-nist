@@ -13,4 +13,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Rebuild source
-        uses: ietf-ribose/github-action-build-relaton-yaml-source@0f3a3003b50b95dc7ccb85f3ea5b14b6792b656b
+        uses: ietf-ribose/github-action-build-relaton-yaml-source@60cf84ca0b43bef10cd9629b8a52853fedb0b3b8
