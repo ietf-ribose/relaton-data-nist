@@ -3,8 +3,7 @@ name: Fetcher
 on:
   push:
   schedule:
-    - cron: '0 * * * *' # For testing purposes
-    # - cron: '1 15 * * *' # Original schedule
+    - cron: '1 15 * * *'
   workflow_dispatch:
 
 jobs:
