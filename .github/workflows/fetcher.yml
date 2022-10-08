@@ -12,6 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Rebuild source
-        uses: ietf-ribose/github-action-build-relaton-yaml-source@v1
+        uses: ietf-ribose/github-action-build-relaton-yaml-source@main
         with:
           relaton-adapter: "nist-tech-pubs"
