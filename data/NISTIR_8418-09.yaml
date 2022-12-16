@@ -1,7 +1,7 @@
 ---
 id: NISTIR8418-09
 title:
-- content: NIST Time and Frequency Bulletin
+- content: NIST Time and Frequency Bulletin:September
   language:
   - en
   script:
@@ -64,5 +64,5 @@ series:
   abbreviation:
     content: IR
   number: 8418-09
-fetched: '2022-12-15'
+fetched: '2022-12-16'
 doctype: standard
