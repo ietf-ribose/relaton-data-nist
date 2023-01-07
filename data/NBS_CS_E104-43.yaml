@@ -10,7 +10,7 @@ title:
 link:
 - content: https://doi.org/10.6028/NBS.CS.e104-43
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/Legacy/CS/cse104-43.pdf
+- content: https://nvlpubs.nist.gov/nistpubs/Legacy/CS/cs104-43.pdf
   type: pdf
 type: standard
 docid:
@@ -30,7 +30,7 @@ contributor:
       content: NBS
     contact:
     - address:
-        city: "\"Gaithersburg"
+        city: Gaithersburg
         state: MD
         country: US
   role:
@@ -46,6 +46,6 @@ series:
     content: CS
   number: e104-43
 place:
-- "\"Gaithersburg, MD"
-fetched: '2023-01-06'
+- Gaithersburg, MD
+fetched: '2023-01-07'
 doctype: standard

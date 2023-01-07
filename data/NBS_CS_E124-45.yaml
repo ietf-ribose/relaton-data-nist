@@ -10,7 +10,7 @@ title:
 link:
 - content: https://doi.org/10.6028/NBS.CS.e124-45
   type: doi
-- content: https://nvlpubs.nist.gov/nistpubs/Legacy/CS/cse124-45.pdf
+- content: https://nvlpubs.nist.gov/nistpubs/Legacy/CS/cs124-45.pdf
   type: pdf
 type: standard
 docid:
@@ -47,5 +47,5 @@ series:
   number: e124-45
 place:
 - "\"Gaithersburg, MD"
-fetched: '2023-01-06'
+fetched: '2023-01-07'
 doctype: standard
