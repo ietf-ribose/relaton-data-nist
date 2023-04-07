@@ -1,7 +1,7 @@
 ---
 id: NISTSP500-334
 title:
-- content: Contactless Fingerprint Capture and Data Interchange Best Practice Recommendation
+- content: Contactless fingerprint capture and data interchange best practice recommendation
   language:
   - en
   script:
@@ -61,7 +61,7 @@ contributor:
     name:
       given:
         forename:
-        - content: John M.
+        - content: John M
           script:
           - Latn
       surname:
@@ -78,7 +78,7 @@ contributor:
     name:
       given:
         forename:
-        - content: Gregory P.
+        - content: Gregory P
           script:
           - Latn
       surname:
@@ -95,7 +95,7 @@ contributor:
     name:
       given:
         forename:
-        - content: John D.
+        - content: John D
           script:
           - Latn
       surname:
@@ -110,9 +110,7 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    abbreviation:
-      content: NIST
+    - content: National Institute of Standards and Technology (U.S.)
     contact:
     - address:
         city: Gaithersburg
@@ -123,6 +121,21 @@ contributor:
 revdate: '2021-03-11'
 script:
 - Latn
+abstract:
+- content: While contactless fingerprint capture devices stand to provide for many
+    benefits, images from this nascent technology are sufficiently different than
+    traditional contact-collected images thereby warranting the separation of these
+    new contactless fingerprint images from legacy contact-collected images and systems
+    operating on them. This Best Practices Recommendation defines voluntary (informative)
+    changes to the ANSI/NIST standard to allow for the creation of contactless transactions
+    that are not readily ingestible by existing systems, but based closely on ANSI/NIST
+    so that minimal changes to the system can allow for processing. Furthermore, the
+    transactions can include the original sensor data, in addition to the contact-compatible/interoperable
+    image in the event that vendors improve their technologies and allow for the reprocessing
+    of the data without recapturing.
+  script:
+  - Latn
+  format: text/plain
 series:
 - title:
     content: NIST Special Publications (General)
@@ -130,7 +143,5 @@ series:
   abbreviation:
     content: SP
   number: 500-334
-place:
-- Gaithersburg, MD
-fetched: '2023-04-06'
+fetched: '2023-04-07'
 doctype: standard

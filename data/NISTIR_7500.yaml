@@ -1,7 +1,7 @@
 ---
 id: NISTIR7500
 title:
-- content: Programs to Estimate UV Dosage and Damage
+- content: Programs to estimate UV dosage and damage
   language:
   - en
   script:
@@ -21,9 +21,7 @@ docid:
   type: DOI
 date:
 - type: published
-  value: 1999-09
-- type: published
-  value: '2008-06-04'
+  value: '2008-06-03'
 contributor:
 - person:
     name:
@@ -42,28 +40,9 @@ contributor:
         - content: Engineering Laboratory
   role:
   - type: author
-- person:
-    name:
-      given:
-        forename:
-        - content: Eric
-          script:
-          - Latn
-      surname:
-        content: Byrd
-        script:
-        - Latn
-    affiliation:
-    - organization:
-        name:
-        - content: Engineering Laboratory
-  role:
-  - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    abbreviation:
-      content: NIST
+    - content: National Institute of Standards and Technology (U.S.)
     contact:
     - address:
         city: Gaithersburg
@@ -71,7 +50,7 @@ contributor:
         country: US
   role:
   - type: publisher
-revdate: 1999-09
+revdate: '2008-06-03'
 script:
 - Latn
 abstract:
@@ -94,7 +73,5 @@ series:
   abbreviation:
     content: IR
   number: '7500'
-place:
-- Gaithersburg, MD
-fetched: '2023-04-06'
+fetched: '2023-04-07'
 doctype: standard

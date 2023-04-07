@@ -24,8 +24,6 @@ docid:
 date:
 - type: published
   value: '2021-01-28'
-- type: published
-  value: '2021-01-28'
 - type: confirmed
   value: '2021-01-28'
 contributor:
@@ -166,5 +164,5 @@ series:
   number: 800-172
 place:
 - Gaithersburg, MD
-fetched: '2023-04-06'
+fetched: '2023-04-07'
 doctype: standard

@@ -1,7 +1,7 @@
 ---
 id: NISTTN2159
 title:
-- content: Laboratory Method for Recording AWS-3 LTE Waveforms
+- content: Laboratory method for recording AWS-3 LTE waveforms
   language:
   - en
   script:
@@ -27,7 +27,7 @@ contributor:
     name:
       given:
         forename:
-        - content: Aric W.
+        - content: Aric W
           script:
           - Latn
       surname:
@@ -44,7 +44,7 @@ contributor:
     name:
       given:
         forename:
-        - content: M. Keith
+        - content: M Keith
           script:
           - Latn
       surname:
@@ -61,7 +61,7 @@ contributor:
     name:
       given:
         forename:
-        - content: Robert D.
+        - content: Robert D
           script:
           - Latn
       surname:
@@ -95,7 +95,7 @@ contributor:
     name:
       given:
         forename:
-        - content: Duncan A.
+        - content: Duncan A
           script:
           - Latn
       surname:
@@ -110,9 +110,7 @@ contributor:
   - type: author
 - organization:
     name:
-    - content: National Institute of Standards and Technology
-    abbreviation:
-      content: NIST
+    - content: National Institute of Standards and Technology (U.S.)
     contact:
     - address:
         city: Gaithersburg
@@ -123,6 +121,26 @@ contributor:
 revdate: '2021-05-11'
 script:
 - Latn
+abstract:
+- content: The focus of this work provides a library of actual long-term evolution
+    (LTE) user equipment (UE) emissions with sufficient time resolution and dynamic
+    range for use in spectrum sharing, and interference susceptibility studies. National
+    Advanced Spectrum and Communications Test Network (NASCTN)'s AWS-3 LTE impacts
+    on AMT study required the use of LTE waveforms from advanced wireless services
+    3 (AWS-3) equipment for playback in a susceptibility analysis. Thus, National
+    Institute of Standards and Technology (NIST) and the NASCTN program office commissioned
+    the work as part of the Edwards Air Force Base (EAFB) proposed and NASCTN steering
+    committee approved test request to investigate the impact of LTE activities on
+    aeronautical mobile telemetry (AMT) links. The recordings of the UE emissions
+    are performed in the NIST Broadband Interoperability Testbed (NBIT) facility,
+    where under laboratory conditions, a single UE (and subsequently a second UE)
+    are in connection to a fully emulated LTE network with a carrier grade evolved
+    Node B (eNB). NBIT's hybrid radio frequency (RF) testbed allows for a radiated
+    free-space connection to the UE in conjunction with a cabled user equipment traffic
+    generator (UTG) for control of cell loading conditions.
+  script:
+  - Latn
+  format: text/plain
 series:
 - title:
     content: NIST Technical Notes
@@ -130,7 +148,5 @@ series:
   abbreviation:
     content: TN
   number: '2159'
-place:
-- Gaithersburg, MD
-fetched: '2023-04-06'
+fetched: '2023-04-07'
 doctype: standard
