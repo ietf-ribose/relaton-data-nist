@@ -39105,3 +39105,79 @@
   :file: data/NIST_SP_1290.yaml
 - :id: NIST CSWP 28
   :file: data/NIST_CSWP_28.yaml
+- :id: NBS RPT 2602
+  :file: data/NBS_RPT_2602.yaml
+- :id: NIST AMS 100-48-upd1
+  :file: data/NIST_AMS_100-48-UPD1.yaml
+- :id: NIST AMS 600-12
+  :file: data/NIST_AMS_600-12.yaml
+- :id: NIST FIPS 197-upd1
+  :file: data/NIST_FIPS_197-UPD1.yaml
+- :id: NIST GCR 23-042
+  :file: data/NIST_GCR_23-042.yaml
+- :id: NIST HB 150-17e2008
+  :file: data/NIST_HB_150-17E2008.yaml
+- :id: NIST HB 150-17e2013
+  :file: data/NIST_HB_150-17E2013.yaml
+- :id: NIST HB 150-23e2010
+  :file: data/NIST_HB_150-23E2010.yaml
+- :id: NIST HB 150-24e2010
+  :file: data/NIST_HB_150-24E2010.yaml
+- :id: NIST IR 8355
+  :file: data/NISTIR_8355.yaml
+- :id: NIST IR 8406
+  :file: data/NISTIR_8406.yaml
+- :id: NIST IR 8441 ipd
+  :file: data/NISTIR_8441_IPD.yaml
+- :id: NIST IR 8447r1
+  :file: data/NISTIR_8447R1.yaml
+- :id: NIST IR 8450 ipd
+  :file: data/NISTIR_8450_IPD.yaml
+- :id: NIST IR 8454
+  :file: data/NISTIR_8454.yaml
+- :id: NIST IR 8455-upd1
+  :file: data/NISTIR_8455-UPD1.yaml
+- :id: NIST IR 8465
+  :file: data/NISTIR_8465.yaml
+- :id: NIST IR 8466
+  :file: data/NISTIR_8466.yaml
+- :id: NIST IR 8467 ipd
+  :file: data/NISTIR_8467_IPD.yaml
+- :id: NIST IR 8470
+  :file: data/NISTIR_8470.yaml
+- :id: NIST IR 8471
+  :file: data/NISTIR_8471.yaml
+- :id: NIST SP 1500-18r1
+  :file: data/NIST_SP_1500-18R1.yaml
+- :id: NIST SP 1500-21
+  :file: data/NIST_SP_1500-21.yaml
+- :id: NIST SP 2200-02
+  :file: data/NIST_SP_2200-02.yaml
+- :id: NIST SP 500-340
+  :file: data/NIST_SP_500-340.yaml
+- :id: NIST SP 500-341
+  :file: data/NIST_SP_500-341.yaml
+- :id: NIST SP 800-124r2
+  :file: data/NIST_SP_800-124R2.yaml
+- :id: NIST SP 800-171r3 ipd
+  :file: data/NIST_SP_800-171R3_IPD.yaml
+- :id: NIST SP 800-216
+  :file: data/NIST_SP_800-216.yaml
+- :id: NIST SP 800-225
+  :file: data/NIST_SP_800-225.yaml
+- :id: NIST TN 2230-upd1
+  :file: data/NIST_TN_2230-UPD1.yaml
+- :id: NIST TN 2253
+  :file: data/NIST_TN_2253.yaml
+- :id: NIST IR 8369
+  :file: data/NISTIR_8369.yaml
+- :id: NIST IR 8376
+  :file: data/NISTIR_8376.yaml
+- :id: NIST IR 8377
+  :file: data/NISTIR_8377.yaml
+- :id: NIST IR 8452
+  :file: data/NISTIR_8452.yaml
+- :id: NIST TN 2136-1
+  :file: data/NIST_TN_2136-1.yaml
+- :id: NIST TN 2228-upd1
+  :file: data/NIST_TN_2228-UPD1.yaml
