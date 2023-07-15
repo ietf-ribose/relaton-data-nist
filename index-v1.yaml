@@ -39181,3 +39181,5 @@
   :file: data/NIST_TN_2136-1.yaml
 - :id: NIST TN 2228-upd1
   :file: data/NIST_TN_2228-UPD1.yaml
+- :id: NIST IR 8011-4
+  :file: data/NISTIR_8011-4.yaml
