@@ -55,8 +55,11 @@ contributor:
 revdate: '2021-10-21'
 script:
 - Latn
+docstatus:
+  stage:
+    value: preprint
 relation:
-- type: reprintOf
+- type: hasDraft
   bibitem:
     id: NISTSP1273
     docid:

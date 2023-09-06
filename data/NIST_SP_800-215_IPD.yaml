@@ -71,8 +71,11 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: preprint
 relation:
-- type: reprintOf
+- type: hasDraft
   bibitem:
     id: NISTSP800-215
     docid:
